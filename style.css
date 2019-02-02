@@ -31,7 +31,7 @@ body {
 }
 
 .row2 {
-    height: 55px;
+    height: auto;
 }
 
 .row2, .row3, .row4, .row5 {
@@ -65,4 +65,10 @@ h3 {
 
 .picture {
     border-radius: 5px;
+}
+
+.icon {
+    height: 120px;
+    width: 100px;
+    padding-bottom: 20px;
 }
