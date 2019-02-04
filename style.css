@@ -27,15 +27,18 @@ body {
 .row {
     padding-top: 15px;
     padding-bottom: 15px;
+
 }
 
 .row2 {
     height: auto;
+    box-shadow: 0 2px 5px black;
 }
 
 .row3, .row4, .row5 {
     padding-top: 50px;
     padding-bottom: 20px;
+    background-color: rgb(245, 244, 252);
 }
 
 nav {
