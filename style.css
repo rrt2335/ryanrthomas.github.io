@@ -33,11 +33,6 @@ body {
     height: auto;
 }
 
-.row2, .row3, .row4, .row5 {
-    padding-left: 100px;
-    padding-right: 100px;
-}
-
 .row3, .row4, .row5 {
     padding-top: 50px;
     padding-bottom: 20px;
