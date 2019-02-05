@@ -1,6 +1,6 @@
 header {
     text-align: left;
-    background-image: linear-gradient(to right, rgb(42, 36, 65),  rgb(92, 85, 117));
+    background-image: linear-gradient(to right, rgb(18, 15, 29),  rgb(108, 94, 158));
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -10,7 +10,7 @@ header {
 }
 
 .row6 {
-    background-image: linear-gradient(to right, rgb(42, 36, 65),  rgb(92, 85, 117));
+    background-image: linear-gradient(to right, rgb(18, 15, 29),  rgb(108, 94, 158));
     color: rgb(231, 231, 231);
     text-shadow: 0 0 10px black;
     box-shadow: 0 0 10px black;
