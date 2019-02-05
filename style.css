@@ -50,7 +50,7 @@ body {
 nav {
     font-family: 'Montserrat Subrayada', sans-serif;
     font-size: 18px;
-    background-image: linear-gradient(to right, rgb(90, 83, 134),  rgb(155, 150, 201));
+    background-image: linear-gradient(to right, rgb(51, 46, 82),  rgb(155, 150, 201));
     color: white;
     box-shadow: 0 0 10px black;
 
