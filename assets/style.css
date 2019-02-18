@@ -73,3 +73,8 @@ h3 {
     width: 100px;
     padding-top: 20px;
 }
+
+.card-img-top {
+    height: 200px;
+    width: 200px;
+}
