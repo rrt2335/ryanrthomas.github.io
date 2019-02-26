@@ -78,3 +78,7 @@ h3 {
     height: 100%;
     width: 100%;
 }
+
+.card {
+    box-shadow: 0 3px 7px black;
+}
