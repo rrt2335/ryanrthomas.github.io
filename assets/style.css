@@ -82,3 +82,7 @@ h3 {
 .card {
     box-shadow: 0 3px 7px black;
 }
+
+.row-icons {
+    box-shadow: 0 3px 40px black;
+}
