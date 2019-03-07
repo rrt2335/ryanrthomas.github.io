@@ -81,6 +81,7 @@ h3 {
 
 .card {
     box-shadow: 0 3px 7px black;
+    cursor: pointer;
 }
 
 .row-icons {
