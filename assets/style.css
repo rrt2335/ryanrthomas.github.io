@@ -93,3 +93,7 @@ h3 {
 .card-desc{
     color: black;
 }
+
+a, a:hover {
+    color:rgb(245, 244, 252);
+}
