@@ -30,6 +30,9 @@ body {
     padding-top: 15px;
     padding-bottom: 15px;
 }
+.row2{
+    font-size: 20px;
+}
 
 .row2 ::after {
     height: auto;
@@ -90,16 +93,20 @@ h3 {
 .row-icons {
     box-shadow: 0 3px 20px black;
 }
-.project-link{
+
+.project-link {
     color:white;
 }
-.card-desc{
+
+.card-desc {
     color: black;
 }
-.icon{
+
+.icon {
     margin-left: -50px;
     margin-right: -50px;
 }
+
 .fas, .fab {
     color: rgb(231, 231, 231);
 }
@@ -107,11 +114,11 @@ h3 {
 a, a:hover {
     color:rgb(245, 244, 252);
 }
-.education{
-    padding-left: 80px;
-    padding-right: 80px;
+.education {
+    padding-left: 70px;
+    padding-right: 70px;
     font-size: 18px;
 }
-.codeworks-link{
+.codeworks-link {
     color:rgb(56, 250, 38);
 }
