@@ -70,6 +70,8 @@ h3 {
 
 .profile-pic {
     box-shadow: 2px 2px 20px black;
+    height: 350px;
+    width: 350px;
 }
 
 .icon {
