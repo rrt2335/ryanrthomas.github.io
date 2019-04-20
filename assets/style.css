@@ -58,7 +58,6 @@ nav {
     background-image: linear-gradient(to right, rgb(51, 46, 82),  rgb(155, 150, 201));
     color: white;
     box-shadow: 0 0 10px black;
-    
     padding-left: 20px;
     padding-right: 20px;
 }
@@ -86,6 +85,7 @@ h3 {
 }
 
 .card {
+    padding: 0px;
     box-shadow: 0 3px 7px black;
     border: none !important;
     border-bottom-left-radius: 10px;
