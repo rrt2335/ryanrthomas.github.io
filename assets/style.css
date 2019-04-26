@@ -4,7 +4,7 @@ header {
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
-    font-family: 'Montserrat Subrayada', sans-serif;
+    font-family: 'Francois One', sans-serif;
     color: rgb(231, 231, 231);
     text-shadow: 0 0 10px black;
 }
@@ -53,7 +53,7 @@ body {
 }
 
 nav {
-    font-family: 'Montserrat Subrayada', sans-serif;
+    font-family: 'Francois One', sans-serif;
     font-size: 18px;
     background-image: linear-gradient(to right, rgb(51, 46, 82),  rgb(155, 150, 201));
     color: white;
@@ -64,13 +64,12 @@ nav {
 
 h3 {
     text-shadow: 0 2px 2px rgb(158, 157, 157);
-    font-family: 'Montserrat Subrayada', sans-serif;
+    font-family: 'Francois One', sans-serif;
 }
 
 .profile-pic {
     box-shadow: 2px 2px 20px black;
     height: 350px;
-    width: 350px;
 }
 
 .icon {
