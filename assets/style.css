@@ -70,6 +70,7 @@ h3 {
 .profile-pic {
     box-shadow: 2px 2px 20px black;
     height: 350px;
+    width: 700px;
 }
 
 .icon {
@@ -79,7 +80,7 @@ h3 {
 }
 
 .card-img-top {
-    height: 100%;
+    height: auto;
     width: 100%;
 }
 
